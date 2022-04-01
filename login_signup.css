@@ -1,0 +1,30 @@
+.padding_100{
+    padding-top: 100px;
+}
+
+main>div{
+    padding: 30px;
+    width: 50%;
+}
+
+.margin_auto{
+    margin: auto;
+}
+
+.border_black{
+    border: solid;
+}
+
+.btn{
+    padding: 5px;
+}
+
+.color_green{
+    color: white;
+    background-color: green;
+}
+
+.color_red{
+    color: white;
+    background-color: red;
+}

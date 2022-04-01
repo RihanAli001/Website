@@ -1,0 +1,15 @@
+main>section>h2{
+    margin-top: 50px;
+}
+
+main>section{
+    text-align: center;
+}
+
+main>section.found>a{
+    text-decoration: none;
+}
+
+main>section.found>a:hover{
+    color: green;
+}
